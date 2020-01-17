@@ -1,6 +1,6 @@
 
 server:
-  port: 8081 #服务注册中心端口号
+  port: 8091 #服务注册中心端口号
 eureka:
   server:
     #自动剔除无效服务
